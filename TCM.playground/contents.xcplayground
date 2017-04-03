@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='zombie_var'/>
+        <page name='loop'/>
+        <page name='return'/>
+        <page name='init'/>
+        <page name='case'/>
+        <page name='void'/>
+        <page name='erase_label'/>
+        <page name='subscript'/>
+        <page name='override_subtype'/>
+        <page name='return_param_type'/>
+        <page name='swift_nonnull_recover'/>
+        <page name='chameleon'/>
+        <page name='assignment'/>
+        <page name='unsafebitcast'/>
+    </pages>
+</playground>
