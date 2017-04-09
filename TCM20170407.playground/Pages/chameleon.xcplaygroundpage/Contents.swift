@@ -38,11 +38,11 @@ quiz.chameleon as UIColor  // UIDeviceRGBColorSpace 0 1 0 1
 
 section {
     struct Quiz: A, B, C {
-        var chameleon: NSString = "string"
+        var chameleon: NSString = "s"
     }
     
     let quiz = Quiz()
-    quiz.chameleon             // "string"
+    quiz.chameleon             // "s"
     quiz.chameleon as Int      // 1
     quiz.chameleon as String   // "string"
     quiz.chameleon as UIColor  // UIDeviceRGBColorSpace 0 1 0 1
